@@ -17,5 +17,8 @@ This will be your starter code for your webpage.
 
 <body style="background-color=red;">
 
-  <h1 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Hello, World. This is a heading</h1>
+   <h1 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Hello, World. This is a heading</h1>
 
+  <img src="https://drive.google.com/file/d/1GyVxuCyM3LIpt8_kw03xvWkcnEBTIpZf/view<img>" alt="France">
+ </body>
+</html>
