@@ -24,6 +24,26 @@ This will be your starter code for your webpage.
 </html>
 
 <head> 
- href="./favicon-32x32.png"![favicon-32x32](https://github.com/user-attachments/assets/1676fe4a-09a0-49ba-b5a3-2bc603bbb47c)
+ href="./favicon-32x32.png"![favicon-32x32](https://github.com/user-attachments/assets/1676fe4a-09a0-49ba-b5a3-2bc603bbb47c)<index class="html"> 
+<!DOCTYPE <html>
+    <body>
+        <head> Hello, World</head>
+         <h1>Hello</h1>
+    </body>
+         <p> Hello. Im writing some random things because im just trying to play around with everything and see what I create. 
+    Hello, World. My name is Liana. </p>
+<html>
+<body>
+
+<h1>Knock Knock</h1>
+
+<button type="button" onclick="alert('me. MUAHAH')">Whos there?</button>
+ 
+</body>
+</html>
+
+
+
+ 
 
 
