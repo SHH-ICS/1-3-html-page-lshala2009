@@ -22,3 +22,8 @@ This will be your starter code for your webpage.
   <img src="https://drive.google.com/file/d/1GyVxuCyM3LIpt8_kw03xvWkcnEBTIpZf/view<img>" alt="France">
  </body>
 </html>
+
+<head> 
+ href="./favicon-32x32.png"![favicon-32x32](https://github.com/user-attachments/assets/1676fe4a-09a0-49ba-b5a3-2bc603bbb47c)
+
+
